@@ -34,24 +34,6 @@ Start the server:
 uvicorn main:app --reload
 ```
 Frontend
-Navigate to the weather-dashboard-frontend folder:
-bash
+--------
+https://github.com/Uks130322/weather_dashboard_front
 
-Verify
-Run
-Copy code
-cd weather-dashboard-frontend
-Install dependencies:
-bash
-
-Verify
-Run
-Copy code
-npm install
-Start the project:
-bash
-
-Verify
-Run
-Copy code
-npm start
